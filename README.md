@@ -27,7 +27,7 @@ cd second-brain-app
 2. Install Dependencies
 cd Backend
 npm install
-3. In Frontend
+3. In Frontend:
 4. cd Frontend
 npm install
 
